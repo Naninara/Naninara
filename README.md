@@ -9,7 +9,7 @@
 An Engineering Student with strong passion about developing Mobile and Web Applications using react and react native with NodeJs and Java for writing server side logic along with the MongoDB and Mysql Databases
 
 - 📝 See my [<img height=20 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">](https://mavin-portifolio.netlify.app/) Here. 
-- 🌱 I’m currently learning NectJs and System Design.
+- 🌱 I’m currently learning NextJs and System Design.
 
 - 👯 I’m looking to collaborate on MERN and Java Projects
   
