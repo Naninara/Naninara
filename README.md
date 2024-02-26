@@ -19,10 +19,10 @@ An Engineering Student with strong passion about developing Mobile and Web Appli
 
 ---
 
-### Github Stats
+### Github Stats and languages
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=naninara&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naninara&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naninara)
 
 ---
 ### Tech Stack And Tools
